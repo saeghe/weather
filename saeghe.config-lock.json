@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "git@github.com:saeghe\/test-runner.git": {
+            "owner": "saeghe",
+            "repo": "test-runner",
+            "version": "v3.0.1",
+            "hash": "9afa139481228d99c7404444eda0fab54051b5ec"
+        },
+        "https:\/\/github.com\/saeghe\/cli.git": {
+            "owner": "saeghe",
+            "repo": "cli",
+            "version": "v2.1.0",
+            "hash": "59b0e31280ee50c771593b06aad33fa0e53a8b22"
+        },
+        "git@github.com:saeghe\/datatype.git": {
+            "owner": "saeghe",
+            "repo": "datatype",
+            "version": "v2.0.0",
+            "hash": "5652791ac21ad1b3a1d660486b53abd798c38b63"
+        },
+        "git@github.com:saeghe\/file-manager.git": {
+            "owner": "saeghe",
+            "repo": "file-manager",
+            "version": "v1.2.0",
+            "hash": "b3d73f0028e7aac3bcd11fc346990f3116fdecb0"
+        }
+    }
+}

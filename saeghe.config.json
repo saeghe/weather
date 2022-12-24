@@ -1,0 +1,22 @@
+{
+    "map": {
+        "Saeghe\\Weather": "Source",
+        "Tests": "Tests"
+    },
+    "entry-points": [
+        "console.php"
+    ],
+    "excludes": [],
+    "executables": [],
+    "packages-directory": "Packages",
+    "packages": {
+        "git@github.com:saeghe\/test-runner.git": "v3.0.1",
+        "git@github.com:saeghe\/datatype.git": "v2.0.0",
+        "git@github.com:saeghe\/file-manager.git": "v1.2.0"
+    },
+    "aliases": {
+        "test-runner": "git@github.com:saeghe\/test-runner.git",
+        "datatype": "git@github.com:saeghe\/datatype.git",
+        "file-manager": "git@github.com:saeghe\/file-manager.git"
+    }
+}
